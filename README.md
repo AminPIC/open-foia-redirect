@@ -1,4 +1,4 @@
-# open.foia.gov redirect
+# Performance.gov redirect
 
 We've setup a redirect for open.foia.gov. Because the domain is no longer supported, we redirect to www.foia.gov.
 
